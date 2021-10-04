@@ -17,4 +17,22 @@ ul {
 
 .logo {
     height: 70px;
+<<<<<<< HEAD
+=======
+}
+
+.mainButton {
+    background-color:green;
+    color: white;
+    border: 0px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    box-shadow: 1px 1px green;
+}
+
+.mainButton:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+>>>>>>> 5-crear-boton-nuevo-post
 }
